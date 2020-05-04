@@ -1,2 +1,2 @@
-# pace-calculator
+# Pace Calculator
 A simple pace calculator
